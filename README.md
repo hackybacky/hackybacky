@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer (fresher) from India . Looking for SDE opportunities . Batch of 2023</h3>
+<!-- <h3 align="center">Software Developer (fresher) from India . Looking for SDE opportunities . Batch of 2023</h3>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackybacky&" alt="hackybacky" /></p>
@@ -25,3 +25,4 @@
 
 
 
+ -->
