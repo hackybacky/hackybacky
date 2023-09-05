@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hareesh Kumar Charchil</h1>
-<h3 align="center">Trying to Learning something everyday </h3>
+<h3 align="center">Trying to Learn something everyday </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hackybacky&label=Profile%20views&color=0e75b6&style=flat" alt="hackybacky" /> </p>
 
